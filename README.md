@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋, I’m Aleksander Gaydajiev
 
-<!--
-**gaydazhiev-aleksander/gaydazhiev-aleksander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a young developer who loves turning ideas into real projects.  
+I mainly work with **Python**, and I’m always learning new things… sometimes too many things. 😅
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on
+- A **top secret project 🤫**  
+- Making Python do magic ✨  
+- Pretending I know what I’m doing sometimes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning / interested in
+- **AI / Machine Learning** 🤖  
+- **Game Development** 🎮  
+- **Mobile Applications** 📱  
+- **Web Development** 🌐
+
+## 💡 Fun fact
+I drink coffee like it’s water and code like there’s no tomorrow ☕💻
+
+## 📫 How to reach me
+- [LinkedIn](your-linkedin-url)  
+- [Twitter](your-twitter-url)  
+- [Email](your-email)
