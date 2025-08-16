@@ -15,9 +15,5 @@ I mainly work with **Python**, and I’m always learning new things… sometimes
 - **Web Development** 🌐
 
 ## 💡 Fun fact
-I drink coffee like it’s water and code like there’s no tomorrow ☕💻
+I build programs that confuse even me… and sometimes they still work 🤯💻
 
-## 📫 How to reach me
-- [LinkedIn](your-linkedin-url)  
-- [Twitter](your-twitter-url)  
-- [Email](your-email)
